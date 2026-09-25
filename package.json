@@ -1,0 +1,32 @@
+{
+  "name": "@pipeworx/mcp-swissmedic",
+  "version": "0.1.0",
+  "description": "Swissmedic authorised human medicines — the 'Zugelassene Arzneimittel",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "bin": {
+    "mcp-swissmedic": "bin/cli.js"
+  },
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "swissmedic"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-swissmedic.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "tsx": "^4.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-192d7fd7be92edc7108ecca4d3b2ee96e3e9440e6138a22fd81f89cf806529d0",
+    "sourceCommit": "916ae806a59e9d4470ec13ee84233c8bb2b8f24f"
+  }
+}
