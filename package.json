@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-swissmedic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Swissmedic authorised human medicines — the 'Zugelassene Arzneimittel",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-192d7fd7be92edc7108ecca4d3b2ee96e3e9440e6138a22fd81f89cf806529d0",
-    "sourceCommit": "916ae806a59e9d4470ec13ee84233c8bb2b8f24f"
+    "sourceHash": "v1-4b7129a6278179152a07ede054eccb7b601f4ed2c3f92b962737ad71792a77a0",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }
