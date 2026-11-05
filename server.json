@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/swissmedic",
   "title": "Swissmedic",
   "description": "Swissmedic authorised human medicines — the 'Zugelassene Arzneimittel HAM' list, Switzerland's…",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/swissmedic",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-swissmedic",

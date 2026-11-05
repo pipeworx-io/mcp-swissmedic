@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-swissmedic",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Swissmedic authorised human medicines — the 'Zugelassene Arzneimittel HAM' list, Switzerland's medicines regulator's own register of every authorised human medicinal product and each of its authorised dosage strengths. Auth: none.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "swissmedic",
     "gatewaySlug": "swissmedic",
-    "sourceHash": "v1-6bf2fb6523bef035124746c27b340955d80058869659700bd1488a42087f9556",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-c7aa3125f69244c2da32d18ce0b4ccfec639a7de1fe92c2c821f165acb2ce658",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
